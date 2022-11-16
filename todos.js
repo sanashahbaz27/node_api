@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 1,
-    task: "Fix Sink"
+    task: "Fix Sink!"
   },
   {
     id: 2,
